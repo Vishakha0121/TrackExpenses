@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TrackExpenses/static/css/main.1db57c51.css",
+    "main.js": "/TrackExpenses/static/js/main.3eaecdc4.js",
+    "static/css/226.0aeb5c7a.chunk.css": "/TrackExpenses/static/css/226.0aeb5c7a.chunk.css",
+    "static/js/226.c17938ce.chunk.js": "/TrackExpenses/static/js/226.c17938ce.chunk.js",
+    "static/media/Brown Simple Minimalist Marketing Presentation.png": "/TrackExpenses/static/media/Brown Simple Minimalist Marketing Presentation.47f30e74d3834ff323fd.png",
+    "static/media/359497-4k-wallpaper.jpg": "/TrackExpenses/static/media/359497-4k-wallpaper.73c2a88be446d64d15a2.jpg",
+    "static/media/UserProf.png": "/TrackExpenses/static/media/UserProf.f468e4b90c8714971210.png",
+    "static/media/Nothing_Found.svg": "/TrackExpenses/static/media/Nothing_Found.912e98c8c94b76d9373d4bd326c1427c.svg",
+    "static/media/Manage money-bro.svg": "/TrackExpenses/static/media/Manage money-bro.a50f47c22b1a676d59c2672178ad5aa4.svg",
+    "static/media/EmptyExpenses.svg": "/TrackExpenses/static/media/EmptyExpenses.88057327147d68db6fefef88424ac617.svg",
+    "static/media/logout.svg": "/TrackExpenses/static/media/logout.cde16f63106d1e990484f7621b4a4beb.svg",
+    "static/media/wishList.svg": "/TrackExpenses/static/media/wishList.132ca5511e6ebbba579257f8c9c8f9c1.svg",
+    "static/media/expense.svg": "/TrackExpenses/static/media/expense.5ba45cdb4fc9be5cbd8fb72748b8b5de.svg",
+    "static/media/calculator.svg": "/TrackExpenses/static/media/calculator.0d54fbdf8117eb9716081321a559d6d3.svg",
+    "static/media/dues.svg": "/TrackExpenses/static/media/dues.c8f72f094d44a3345db30e45037d2fe3.svg",
+    "static/media/expenseTracker.svg": "/TrackExpenses/static/media/expenseTracker.1db22f0c60731317b545b8983dc8e6e9.svg",
+    "static/media/user.svg": "/TrackExpenses/static/media/user.616cb39b01a1b0ef60388614d423740d.svg",
+    "index.html": "/TrackExpenses/index.html",
+    "main.1db57c51.css.map": "/TrackExpenses/static/css/main.1db57c51.css.map",
+    "main.3eaecdc4.js.map": "/TrackExpenses/static/js/main.3eaecdc4.js.map",
+    "226.0aeb5c7a.chunk.css.map": "/TrackExpenses/static/css/226.0aeb5c7a.chunk.css.map",
+    "226.c17938ce.chunk.js.map": "/TrackExpenses/static/js/226.c17938ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db57c51.css",
+    "static/js/main.3eaecdc4.js"
+  ]
+}
