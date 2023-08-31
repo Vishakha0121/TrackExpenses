@@ -1,0 +1,25 @@
+.expenses-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .expenses-list__fallback {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+  margin-bottom: 1rem;
+
+  }
+
+  .img_no_expense{
+    max-width: 50%;
+    max-height: 40vh;
+  }
+  .img_box_expense {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh;  */
+  }
+  

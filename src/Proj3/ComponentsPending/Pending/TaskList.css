@@ -1,0 +1,41 @@
+.task_Pending{
+    margin:2rem auto;
+    width: 75rem;
+    max-width: 75%;
+    background: white;
+    color: black;
+    font-weight: bold;
+}
+
+.task_Pending ul{
+    list-style: none;
+    padding: 1rem;
+}
+
+.task_Pending li{
+    border: 2px solid #ff4800;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+}
+
+
+.img_no_task{
+    max-width: 50%;
+    max-height: 40vh;
+  }
+  .img_box_task {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh;  */
+  }
+
+  
+  .task-list__fallback {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+  margin-bottom: 1rem;
+
+  }

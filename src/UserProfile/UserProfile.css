@@ -1,0 +1,73 @@
+.up-out-cont{
+    padding: 1rem;
+    /* margin: auto; */
+    /* width: 80rem;
+    max-width: 80%; */
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 100vh;
+}
+
+.upc {
+    width: 35rem;
+    margin: 20px;
+    border-radius: 4px;
+    padding-bottom: 20px;
+    background-image: linear-gradient(#ffffff, #585858);
+}
+
+.grad-up {
+    background-image: linear-gradient(#ffa885, #ff4800);
+    height: 125px;
+    border-radius: 4px 4px 0px 0px;
+}
+
+.profile-down-up img {
+    height: 150px;
+    border-radius: 100px;
+    margin-top: -75px;
+    padding: 10px;
+    background: white;
+}
+
+.up-t {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.up-d {
+   padding: 20px 40px;
+   font-size: 18px;
+}
+
+/* .up-p-button {
+    font-size: 16px;
+    background: #ff4800;
+    margin:10px 150px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+} */
+
+.up-p-button a{
+    text-decoration: none;
+    color: rgb(213, 213, 213)
+}
+/* padding: 1rem;
+  margin: 2rem auto;
+  width: 80rem;
+  max-width: 80%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  color: #ff4800;
+  font-size: 24px;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    2px 2px 0 #fff; */

@@ -1,0 +1,45 @@
+.nav-pils .nav-link{
+    border-radius: 0;
+    color:#000;
+    background-color: #ddd;
+}
+
+.tab-content{
+    /* background-color: #f9fafb5c;
+    border: 1px solid #dddddd3f; */
+    /* height: 70rem; */
+    /* width: 35rem;
+    max-width: 90%; */
+    margin: auto;
+    /* margin-top: 5%; */
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: white;
+    background-color: #ff4800;
+    font-weight: bold;
+    font-size: large;
+}
+
+.nav-link{
+    color: #ffffff;
+    font-size: larger;
+    font-weight: bold;
+    /* background-color: #f9fafb5c; */
+}
+
+.tab-cont{
+    background-color:#ffffff30;
+    border-radius:'10px';
+    width: 35rem;
+    max-width: 90%;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: #fff;
+}

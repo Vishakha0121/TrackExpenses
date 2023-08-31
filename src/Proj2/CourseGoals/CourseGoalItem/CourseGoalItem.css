@@ -1,0 +1,17 @@
+.goal-item {
+  margin: 1rem 0;
+  background: hsl(17, 100%, 90%);
+  box-shadow: 0px 2px 8px rgb(0, 0, 0,0.26);
+  color:#ff4800;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  width: 30rem;
+  max-width: 90%;
+  /* width: 35rem;
+  max-width: 90%; */
+  margin:1rem auto;
+  border: solid 2px #ff4800;
+  border-radius: 6px;
+}

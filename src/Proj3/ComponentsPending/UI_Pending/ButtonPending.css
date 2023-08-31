@@ -1,0 +1,25 @@
+.button_pending {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ffffff;
+    background-color: #ff4800;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+    margin-top: 5px;
+  }
+  
+  .button_pending:focus {
+    outline: none;
+  }
+  
+  .button_pending:hover,
+  .button_pending:active {
+    background-color: #ffffff;
+    border-color: #ff4800;
+    color:#ff4800;
+    font-weight:bolder;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
+  }
+  
